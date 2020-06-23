@@ -3,5 +3,5 @@
  
 *FOREM(Federation Of Rajasthan Event Managers)* - http://forem.co.in/members.html
 
-2. After colloecting the data then refine it according to the needs and segment the dataset.
+2. After collecting the data further refine it according to the needs and segment the dataset.
 
